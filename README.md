@@ -1,6 +1,7 @@
 # CourseManager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
+Project carried out during the basic Angular course of the Everis DIO bootcamp, taught by instructor Wesllhey Holanda.
 
 ## Development server
 
